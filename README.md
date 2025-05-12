@@ -25,9 +25,11 @@
 Este foi um trabalho de conclusão de graduação (TCC) junto a um amigo (Marcus Vogado, pela UNITAU).
 Construímos juntos um compilador web para as linguagens C e Python, com 3 módulos de exercícios (30 no total) para ensinar programação às pessoas.
 As techs que utilizamos foram:
-- Python Flask (Web)
-- Linux como infraestrutura e validação dos códigos enviados
+- Python para a lógica de validação dos códigos enviados
+- Python Flask para a criação da web app
 - Jinja (UI - Template toolkit)
+- Shell Script para execução dos códigos em C e python
+- Infraestrutura no Linux (ubuntu server)
 
 <hr />
 
