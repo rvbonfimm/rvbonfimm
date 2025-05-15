@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Feliz+Por+Tê-lo+Aqui!)](https://git.io/typing-svg)
 
+<hr />
+
 ### Main skills:
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
@@ -16,6 +18,8 @@
 
 ### Meus Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rvbonfimm&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+<hr />
 
 ### Meus repos mais importantes para mim
 
@@ -31,21 +35,18 @@ As techs que utilizamos foram:
 - Shell Script para execução dos códigos em C e python
 - Infraestrutura no Linux (ubuntu server)
 
-<hr />
 
 > js-data_structs_and_algorithms
 [Repo](https://github.com/rvbonfimm/js-data_structs_and_algorithms)
 
 Repo para estudar algoritmos e estrutura de dados em javascript, acompanhando o livro da professora Loiane Groner.
 
-<hr />
 
 > nlw-connect-19-nodejs
 [Repo](https://github.com/rvbonfimm/nlw-connect-19-nodejs)
 
 Criação de um backend em Typescript para um sistema de recomendações (referral systems)
 
-<hr />
 
 > sql-with-postgres-course
 [Repo](https://github.com/rvbonfimm/sql-with-postgres-course)
@@ -67,18 +68,14 @@ NodeJS:
 - Security around Postgres - against database injection SQLs
 - TDD with postgres
 
-<hr />
 
 > nlw-pocket-mobile-rn
 [Repo](https://github.com/rvbonfimm/nlw-pocket-mobile-rn)
 
 Mobile App desenvolvido com as techs React Native e Expo. Acompanhamento do curso Next Level Week - Pocket-mobile.
 
-<hr />
 
 > clean-node-api
 [Repo](https://github.com/rvbonfimm/clean-node-api)
 
 Desenvolvimento de uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID, além de outras tecnologias.
-
-<hr />
