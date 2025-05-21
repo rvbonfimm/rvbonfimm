@@ -1,8 +1,8 @@
-## Olá, mundo!👋
+## Hi, fellas!👋
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Feliz+Por+Tê-lo+Aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Happy+To+See+You+Here!)](https://git.io/typing-svg)
 
 <hr />
 
@@ -41,12 +41,10 @@ As techs que utilizamos foram:
 
 Repo para estudar algoritmos e estrutura de dados em javascript, acompanhando o livro da professora Loiane Groner.
 
-
 > nlw-connect-19-nodejs
 [Repo](https://github.com/rvbonfimm/nlw-connect-19-nodejs)
 
 Criação de um backend em Typescript para um sistema de recomendações (referral systems)
-
 
 > sql-with-postgres-course
 [Repo](https://github.com/rvbonfimm/sql-with-postgres-course)
@@ -68,12 +66,10 @@ NodeJS:
 - Security around Postgres - against database injection SQLs
 - TDD with postgres
 
-
 > nlw-pocket-mobile-rn
 [Repo](https://github.com/rvbonfimm/nlw-pocket-mobile-rn)
 
 Mobile App desenvolvido com as techs React Native e Expo. Acompanhamento do curso Next Level Week - Pocket-mobile.
-
 
 > clean-node-api
 [Repo](https://github.com/rvbonfimm/clean-node-api)
