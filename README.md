@@ -17,7 +17,7 @@
 
 <hr />
 
-### Meus repos mais importantes para mim
+### Most important repositories for me <3
 
 > seven-online-judge-online-compiler
 [Repo](https://github.com/rvbonfimm/seven-online-judge-online-compiler)
