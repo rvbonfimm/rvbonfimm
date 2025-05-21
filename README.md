@@ -15,9 +15,6 @@
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-### Meus Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rvbonfimm&theme=default&show_icons=true&hide_border=true&layout=compact)
-
 <hr />
 
 ### Meus repos mais importantes para mim
