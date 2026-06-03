@@ -1,4 +1,4 @@
-## Hi, fellas!👋
+## Hello everyone👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Happy+To+See+You+Here!)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
