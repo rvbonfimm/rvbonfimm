@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=140&section=header&text=Rogério%20Bonfim&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend,%20Integrations%20%26%20Distributed%20Systems&descAlignY=62&descSize=16" />
-</div>
-
 ### 👋 About Me
 
 Software Engineer focused on building **resilient backend services, scalable APIs, and distributed architectures**. I value clean code, pragmatic engineering, and operational simplicity—taking products from architecture and development to containerized deployment and observability.
